@@ -81,7 +81,7 @@ interface Status {
 ```
 ## examples
 ``` js
-const { convertStatus } from 'convert-status';
+const { convertStatus } =  require('convert-status');
 // or
 import convertStatus from 'convert-status';
 
