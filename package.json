@@ -1,5 +1,5 @@
 {
-  "name": "convertstatus",
+  "name": "convert-status",
   "version": "1.0.0",
   "description": "a small package to convert fs.Stats objects to more undersandable objects",
   "main": "index.js",
